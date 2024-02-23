@@ -13,3 +13,8 @@
 - Total Sales
 - Top Performing Products
 - Region Performance
+
+<b>Preview:</b> 
+
+![image](https://github.com/womcmichael-exe/Superstore-Sales-Dashboard/assets/160300133/754ba0aa-f212-4098-8725-70383d39b0e4)
+
