@@ -16,5 +16,5 @@
 
 <b>Preview:</b> 
 
-![image](https://github.com/womcmichael-exe/Superstore-Sales-Dashboard/assets/160300133/754ba0aa-f212-4098-8725-70383d39b0e4)
+![Capture](https://github.com/womcmichael-exe/Superstore-Sales-Dashboard/assets/160300133/35198048-309f-4393-8bef-7d3761cf25de)
 
